@@ -27,6 +27,9 @@ npm install
 If you don't know how to start the mongodb locally don't worry Please refer a link below for your reference
 [https://docs.mongodb.com/v3.2/administration/install-community/](https://docs.mongodb.com/v3.2/administration/install-community/) 
 
+And Install mongodb compass (MongoDB Compass is the GUI for MongoDB. Compass allows you to analyze and understand the contents of your data without formal knowledge of MongoDB query)
+
+
 #### Step 4: Set the database path 
 ```
 // dbConnection.js 
