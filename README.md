@@ -29,6 +29,8 @@ If you don't know how to start the mongodb locally don't worry Please refer a li
 
 And Install mongodb compass (MongoDB Compass is the GUI for MongoDB. Compass allows you to analyze and understand the contents of your data without formal knowledge of MongoDB query)
 
+To install mongodb compass use this link: 
+[https://www.mongodb.com/products/compass](https://www.mongodb.com/products/compass)
 
 #### Step 4: Set the database path 
 ```
