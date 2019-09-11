@@ -24,6 +24,8 @@ npm install
 ```
 
 #### Step 3: Run the mongodb locally
+If you don't know how to start the mongodb locally don't worry Please refer a link below for your reference
+[https://docs.mongodb.com/v3.2/administration/install-community/](https://docs.mongodb.com/v3.2/administration/install-community/) 
 
 #### Step 4: Set the database path 
 ```
