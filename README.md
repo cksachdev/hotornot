@@ -2,6 +2,12 @@
 
 Image File compare tool.
 
+## Requirements
+
+* [Node](https://nodejs.org/en/download/)
+* [Git](https://git-scm.com/downloads)
+* [Mongodb](https://www.mongodb.com/download-center/community)
+
 ## Install
 
 ```sh
